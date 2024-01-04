@@ -1,2 +1,3 @@
-# Introduction-to-C
-Introduction to C++
+# Introduction-to-Programming
+Introduction to C++ (EC327)
+
