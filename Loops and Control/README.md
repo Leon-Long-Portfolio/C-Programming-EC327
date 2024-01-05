@@ -1,0 +1,2 @@
+# Loops and Control
+This project involves mastering fundamental programming skills such as data types, user input, various conditional branches, and loops, including nested loops. Students should aim to understand and prepare a solution in advance, ensuring it compiles and runs correctly in the lab. The goal is to demonstrate and explain their solution during the lab session, with no requirement to work outside of these hours. Preparation is key for efficient project completion.
