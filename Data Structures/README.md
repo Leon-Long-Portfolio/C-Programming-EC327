@@ -26,14 +26,6 @@ Input: 1, 3, 4, 9, 7, 8, 5, 0, 2, 3 Modes: 3 Frequency : 2
 
 Input: 2, 3, 4, 4, 5, 1, 2, 1, 5, 3 Modes: 1, 2, 3, 4, 5 Frequency : 2
 
-Some assumptions you can make: Both data and result have enough space to store all the necessary data and mode results The input data from the .txt files are integers in the range from 0 to (# of data points) – 1 (this assumption will make finding the mode significantly easier!!!)
-
-Some helping hints: Pointers * declaration and dereferencing character; & gets the address of a character; pass by value vs pass by reference
-
-double balance[5] = {1000.0, 2.0, 3.4, 17.0, 50.0}; double *p = balance; for(int i = 0; i < 5; i++) cout << *(p + i) << endl;
-
-1000 2 3.4 17 50
-
 ```
 ❯ ./file_reader 
 Input: 1, 1, 2, 2, 2, 3, 3, 3, 4, 4
