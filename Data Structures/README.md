@@ -33,3 +33,19 @@ Some helping hints: Pointers * declaration and dereferencing character; & gets t
 double balance[5] = {1000.0, 2.0, 3.4, 17.0, 50.0}; double *p = balance; for(int i = 0; i < 5; i++) cout << *(p + i) << endl;
 
 1000 2 3.4 17 50
+
+```
+❯ ./file_reader 
+Input: 1, 1, 2, 2, 2, 3, 3, 3, 4, 4
+Modes: 2, 3
+Frequency : 3
+Input: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+Modes: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+Frequency : 1
+Input: 0, 1, 2, 3, 3, 4, 5, 7, 8, 9
+Modes: 3
+Frequency : 2
+Input: 1, 1, 2, 2, 3, 3, 4, 4, 5, 5
+Modes: 1, 2, 3, 4, 5
+Frequency : 2
+```
