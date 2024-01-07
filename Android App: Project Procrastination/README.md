@@ -18,6 +18,6 @@ This app was built using Android Studio. Simply download the zip and open it in 
 
 ### Youtube Video Link: https://www.youtube.com/watch?v=Q3riducPzf8
 
-![image](https://user-images.githubusercontent.com/91199802/145270344-7f669fc3-e397-4529-9b10-b657a0b16df5.png)
+![image](https://github.com/Leon-Long-Portfolio/C-Programming-EC327/blob/main/Android%20App%3A%20Project%20Procrastination/doc/images/145270344-7f669fc3-e397-4529-9b10-b657a0b16df5.png)
 ![image](https://user-images.githubusercontent.com/91199802/145270358-c89c1768-e5ee-4fed-821a-d9516362f704.png)
 ![image](https://user-images.githubusercontent.com/91199802/145270372-d9fd3adb-79f0-4f62-bccc-ba06a844daf3.png)
