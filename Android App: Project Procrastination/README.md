@@ -20,8 +20,14 @@ This app was built using Android Studio. Simply download the zip and open it in 
 
 ### Youtube Video Link: https://www.youtube.com/watch?v=Q3riducPzf8
 
+
 ### Calendar Menu Page
-![image](https://github.com/Leon-Long-Portfolio/C-Programming-EC327/blob/main/Android%20App%3A%20Project%20Procrastination/doc/images/145270358-c89c1768-e5ee-4fed-821a-d9516362f704.png)
+<p align="center">
+  <img src="https://github.com/Leon-Long-Portfolio/C-Programming-EC327/blob/main/Android%20App%3A%20Project%20Procrastination/doc/images/145270372-d9fd3adb-79f0-4f62-bccc-ba06a844daf3.png">
+</p>
+
 
 ### Flashcard Page
-![image](https://github.com/Leon-Long-Portfolio/C-Programming-EC327/blob/main/Android%20App%3A%20Project%20Procrastination/doc/images/145270372-d9fd3adb-79f0-4f62-bccc-ba06a844daf3.png)
+<p align="center">
+  <img src="https://github.com/Leon-Long-Portfolio/C-Programming-EC327/blob/main/Android%20App%3A%20Project%20Procrastination/doc/images/145270372-d9fd3adb-79f0-4f62-bccc-ba06a844daf3.png">
+</p>
