@@ -14,4 +14,19 @@ Enter three x,y coordinates:
 The shortest distance for (5,9) to the line composed of (2,4) and (6,7) is 2.2.
 ```
 ### Rock, Paper, Scissors
-This "rock, paper, scissors" programming question in computer science focuses on essential concepts such as user input handling, random number generation, control structures, decision-making logic, and the use of enumerations (enums). The exercise aims to teach students how to create an interactive application that responds to user choices, utilizes randomness to simulate computer decisions, and employs logical comparisons and control flow to determine the outcome of a game. The use of enums enhances code readability and maintainability, demonstrating best practices in software development. Overall, this question effectively blends theoretical concepts with practical application, providing a comprehensive learning experience in basic programming skills.
+This "rock, paper, scissors" programming question in computer science focuses on essential concepts such as user input handling, random number generation, control structures, and decision-making logic. The exercise aims to teach students how to create an interactive application that responds to user choices, utilizes randomness to simulate computer decisions, and employs logical comparisons and control flow to determine the outcome of a game. Overall, this question effectively blends theoretical concepts with practical application, providing a comprehensive learning experience in basic programming skills.
+```
+❯ ./RockPaperScissors
+Choose Rock (0), Paper (1), or Scissors (2): 2
+Computer chooses: Rock
+You lose!
+
+❯ ./RockPaperScissors
+Choose Rock (0), Paper (1), or Scissors (2): 1
+Computer chooses: Rock
+You win!
+
+❯ ./RockPaperScissors
+Choose Rock (0), Paper (1), or Scissors (2): 7
+Invalid Input!
+```
