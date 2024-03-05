@@ -30,3 +30,18 @@ You win!
 Choose Rock (0), Paper (1), or Scissors (2): 7
 Invalid Input!
 ```
+### Hamming Distance
+This C++ program computes the Hamming distance between two positive integers, focusing on their hexadecimal representation. The Hamming distance is a measure of the difference between two sequences, represented here by the number of differing bits when the integers are compared in binary form. The program takes two positive integers as input from the user, performs a bitwise XOR operation to find differing bits, and then counts these bits to calculate the Hamming distance. The result offers insight into the similarity or difference between the two numbers at the binary level, with the process and output providing a clear understanding of basic bitwise operations, binary to hexadecimal conversion, and the concept of Hamming distance in the context of information theory.
+'''
+❯ ./HammingDistance                         
+Enter two positive integers: 17 23
+Hamming distance between 17 and 23 when numbers are in hex format is: 2
+
+❯ ./HammingDistance
+Enter two positive integers: 2 4
+Hamming distance between 2 and 4 when numbers are in hex format is: 2
+
+❯ ./HammingDistance
+Enter two positive integers: 23 17
+Hamming distance between 23 and 17 when numbers are in hex format is: 2
+'''
