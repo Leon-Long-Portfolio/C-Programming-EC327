@@ -45,3 +45,31 @@ Hamming distance between 2 and 4 when numbers are in hex format is: 2
 Enter two positive integers: 23 17
 Hamming distance between 23 and 17 when numbers are in hex format is: 2
 ```
+### Palindromic Number Strings
+This program checks if the given number string is a palindrome. A palindromic number remains the same when its digits are reversed. The program ensures that the input contains only digits (0-9) and determines whether or not the number is a palindrome, displaying the result accordingly.
+```
+❯ ./Palindrome 
+Enter a number: 4
+The number 4 is a palindrome.
+
+❯ ./Palindrome
+Enter a number: 2332
+The number 2332 is a palindrome.
+
+❯ ./Palindrome
+Enter a number: 123
+The number 123 is not a palindrome.
+```
+### Letter Conversion
+This program performs a character conversion based on an offset value provided by the user. If the offset is non-zero, the program adds this offset to the character's ASCII value to produce a new character. If the offset is zero and the character is a letter, the program changes the case of the letter. If the offset is zero but the character is not a letter, the same character is displayed. This process involves ASCII value manipulation and checks to ensure valid character transformation.
+```
+❯ ./LetterConversion 
+Enter character: h
+Offset (enter 0 to convert case): 0
+New character: H
+
+❯ ./LetterConversion
+Enter character: Z
+Offset (enter 0 to convert case): 3
+New character: ]
+```
